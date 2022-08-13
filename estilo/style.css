@@ -102,6 +102,8 @@ nav > a {
     font-weight: bold;
     border-radius: 5px;
     transition-duration: 0.5s;
+    white-space: nowrap;
+    line-height: 2.5em;
 }
 
 nav > a:hover {
